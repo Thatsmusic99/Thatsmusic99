@@ -9,5 +9,6 @@
     <p>I can be contacted over Discord at Error#7365. If you fail to do so, you can either join our <a href="https://discord.gg/DHE2aSh">community</a> or contact me on <a href="https://www.spigotmc.org/members/thatsmusic99.318719/">SpigotMC</a>.
     <p>Please note that for personal reasons, I don't always like being messaged privately on Discord if I haven't talked to you beforehand. Whilst I won't stop you, it does make me uncomfortable on occasions.</p>
     <img src="https://pluginwiki.us/version/svgGen.php?label=build&message=trying my best">
+    <br>
     <img src="https://github-readme-stats.vercel.app/api?username=Thatsmusic99&count_private=true">
 </div>
