@@ -5,6 +5,7 @@
     <br>
     <p>I'm primarily a Minecraft plugin developer in the projects above, the first three being my most major. In the future, I plan on moving onto actual applications (such as VRTX-VCTC) which can benefit others in both the short and the long run.</p>
     <p>In addition to a plugin developer, I am a ticket responder at a shared hosting company (undisclosed), a server owner, freelance artist, maths expert, creative writer, and a certified incident handler (oh no).</p>
+    <p>I'm also studying for a Master's degree in Computer Science at one of the Russell Group Universities in the U.K.</p>
     <h3>Contact</h3>
     <p>I can be contacted over Discord at Error#7365. If you fail to do so, you can either join our <a href="https://discord.gg/DHE2aSh">community</a> or contact me on <a href="https://www.spigotmc.org/members/thatsmusic99.318719/">SpigotMC</a>.
     <p>Please note that for personal reasons, I don't always like being messaged privately on Discord if I haven't talked to you beforehand. Whilst I won't stop you, it does make me uncomfortable on occasions.</p>
