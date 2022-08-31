@@ -13,5 +13,5 @@
     <p>Please note that for personal reasons, I don't always like being messaged privately on Discord if I haven't talked to you beforehand. Whilst I won't stop you, it does make me uncomfortable on occasions.</p>
     <img src="https://pluginwiki.us/version/svgGen.php?label=build&message=trying my best">
     <br>
-    <img src="https://github-readme-stats-5wvjxcbzk-rickstaa.vercel.app/api?username=Thatsmusic99&count_private=true&include_all_commits=true&role=OWNER,COLLABORATOR">
+    <img src="https://github-readme-stats.vercel.app/api?username=Thatsmusic99&include_all_commits=true&count_private=true">
 </div>
