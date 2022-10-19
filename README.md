@@ -3,7 +3,6 @@
     <h1>Holly (Thatsmusic99) <a href="https://ko-fi.com/thatsmusic99"><img src="https://ko-fi.com/img/dashboard_icons/d_share.png"></a></h1>
     <h3><a href="https://github.com/Errored-Innovations/HeadsPlus">HeadsPlus</a> | <a href="https://github.com/Niestrat99/AT-Rewritten">AdvancedTeleport</a> | <a href="https://github.com/brainsynder-Dev/SimplePets">SimplePets</a> | <a href="https://github.com/Errored-Innovations/ATHENA">ATHENA</a> | <a href="https://github.com/Thatsmusic99/Spoofer">Spoofer</a></h3>
     <br>
-    <br>
     <p>I'm primarily a Minecraft plugin developer in the projects above, the first three being my most major. In the future, I plan on moving onto actual applications (such as VRTX-VCTC) which can benefit others in both the short and the long run.</p>
     <p>I currently work as a Support Representative at MCProHosting, and as a Discord and Event Developer at both Nitrado and MCProHosting.</p>
     <p>In addition to a plugin developer, I am a server owner, freelance artist, maths expert, creative writer, and a certified incident handler (oh no).</p>
