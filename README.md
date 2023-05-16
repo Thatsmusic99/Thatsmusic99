@@ -4,7 +4,6 @@
     <h3><a href="https://github.com/Errored-Innovations/HeadsPlus">HeadsPlus</a> | <a href="https://github.com/Niestrat99/AT-Rewritten">AdvancedTeleport</a> | <a href="https://github.com/brainsynder-Dev/SimplePets">SimplePets</a> | <a href="https://github.com/Errored-Innovations/ATHENA">ATHENA</a> | <a href="https://github.com/Thatsmusic99/Spoofer">Spoofer</a></h3>
     <br>
     <p>I'm primarily a Minecraft plugin developer in the projects above, the first three being my most major. In the future, I plan on moving onto web applications and programs which can benefit others in both the short and the long run. I am currently learning the likes of React, Vue, Django, nginx and Docker to help with this (along with too many others). I have a minor obsession with DevOps-related tools and automation.</p>
-    <p>I currently work as a Discord and Event Developer at Nitrado.</p>
     <p>In addition to a plugin developer, I am a server owner, freelance artist, maths expert, creative writer, and a certified incident handler (oh no).</p>
     <p>I'm also studying for a Master's degree in Computer Science at one of the Russell Group Universities in the U.K.</p>
     <h3>Contact</h3>
