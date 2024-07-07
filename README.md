@@ -5,7 +5,7 @@
     <br>
     <p>I'm primarily a Minecraft plugin developer in the projects above, the first three being my most major. In the future, I plan on moving onto web applications and programs which can benefit others in both the short and the long run. I am currently learning the likes of React, Vue, Django, nginx and Docker to help with this (along with too many others). I have a minor obsession with DevOps-related tools and automation.</p>
     <p>In addition to a plugin developer, I am a server owner, freelance artist, maths expert, creative writer, and a certified incident handler (oh no).</p>
-    <p>I'm also studying for a Master's degree in Computer Science at the University of Birmingham, where I am also the Industrial Liaison for CSS (Computer Science Society).</p>
+    <p>I'm also studying for a Master's degree in Computer Science at the University of Birmingham, where I am also the President of CSS (Computer Science Society).</p>
     <h3>Contact</h3>
     <p>I can be contacted over Discord at errortm99. If you fail to do so, you can either join our <a href="https://discord.gg/DHE2aSh">community</a> or contact me on <a href="https://www.spigotmc.org/members/thatsmusic99.318719/">SpigotMC</a>.
     <p>Please note that for personal reasons, I don't always like being messaged privately on Discord if I haven't talked to you beforehand. Whilst I won't stop you, I may not reply.</p>
